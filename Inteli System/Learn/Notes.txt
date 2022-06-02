@@ -1,0 +1,35 @@
+-> Permision - Pearson Higher Education
+-> www.pearsonhighered
+-> encompasses logic, probability, and continuous mathematics;
+perception, reasoning, learning, and action
+
+->practical speech recognition, machine translation, autonomous vehicles, and household robotics
+
+-> Algorithmic landmarks, game of
+checkers. -> Theoretical progress, probabilistic reasoning, machine learning, and computer vision
+
+->-> observable and nondeterministic environments -> nonprobabilistic settings of search and planning
+->-> concepts of belief state (a set of possible worlds) and state estimation (maintaining the belief state)
+->-> types of environments and types of agents
+->-> representations that an agent can use
+->-> contingent planning
+->-> open-universe
+->-> modern learning algorithms 
+->-> Web search and information extraction
+
+<--> intelligent agent <-->
+   (AI) - the study of agents that receive percepts from the environment and perform actions
+   Each such agent implements a function that maps percept sequences to actions, and we cover different ways to
+represent these functions, such as reactive agents, real-time planners, and decision-theoretic
+systems.
+  P+- We treat robotics and vision not as independently defined
+problems, but as occurring in the service of achieving goals
+
+^^-aima.cs.berkeley.edu -> excercise codes
+
+((Garry Kasparov and program DEEP BLUE))
+((coined 1956))
+
+P+- thought processes and reasoning + behavior
+P+- fidelity to human performance + ideal performance measure, called rationality
+--?? empirical science
