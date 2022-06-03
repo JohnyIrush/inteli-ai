@@ -88,3 +88,15 @@ P+- thought processes and reasoning + behavior
 P+- fidelity to human performance + ideal performance measure, called rationality
 --?? empirical science -either one which, as the term implies, is supported by the evidence of the senses, or one which is built up out of the elements of experience
 ->-> Cognitive science is the interdisciplinary, scientific study of the mind and its processes with input from linguistics, psychology, neuroscience, philosophy, computer science/artificial intelligence, and anthropology
+--??  erudition - The quallity of having or Showing great knowledg or lerning, scholarship
+
+->-> Aristotle’s algorithm was implemented 2300 years later by Newell and Simon in their GPS
+program. 
+
+--?? incompleteness theorem
+--?? The theory of NP-completeness
+--?? Decision theory,
+--?? GAME THEORY theory
+--?? operations research
+--?? Markov decision processes
+--?? singularity
