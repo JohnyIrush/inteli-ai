@@ -6,15 +6,69 @@ perception, reasoning, learning, and action
 ->practical speech recognition, machine translation, autonomous vehicles, and household robotics
 
 -> Algorithmic landmarks, game of
-checkers. -> Theoretical progress, probabilistic reasoning, machine learning, and computer vision
+checkers(just like chess). 
 
-->-> observable and nondeterministic environments -> nonprobabilistic settings of search and planning
-->-> concepts of belief state (a set of possible worlds) and state estimation (maintaining the belief state)
+-> Theoretical progress  - the kind of progress that goes beyond the progress that practically everyone—including instrumentalists or empiricists—associates with science, 
+  ->)) epistemology, the philosophical study of the nature, origin, and limits of human knowledge
+
+-> probabilistic reasoning, 
+-> machine learning, and 
+-> computer vision
+
+->-> observable environment - When an agent can determine the state of the system at all times, it is called fully observable. 
+->-> nondeterministic environments - An environment is deterministic if the next state of the environment is solely determined by the current state of the environment and the actions selected by the agents
+
+->-> concepts of belief state (a set of possible worlds) and state estimation (maintaining the belief state) - A belief state encapsulates the beliefs an agent has about its current state: that is, probability distributions for each variable within the state
 ->-> types of environments and types of agents
+  ->)) Environments
+Fully Observable vs Partially Observable
+Deterministic vs Stochastic
+Competitive vs Collaborative
+Single-agent vs Multi-agent
+Static vs Dynamic
+Discrete vs Continuous
+Episodic vs Sequential
+
+->))Agents
+An agent is anything that can be viewed as : 
+P+-perceiving its environment through sensors and
+P+-acting upon that environment through actuators
+P+-Agent = Architecture + Agent Program
+
+Simple Reflex Agents
+Model-Based Reflex Agents
+Goal-Based Agents
+Utility-Based Agents
+Learning Agent
+
+
 ->-> representations that an agent can use
+->)) Knowledge Representation in AI describes the representation of knowledge. Basically, it is a study of how the beliefs, intentions, and judgments of an intelligent agent can be expressed suitably for automated reasoning
+Declarative Knowledge – It includes concepts, facts, and objects and expressed in a declarative sentence.
+
+P+-Structural Knowledge – It is a basic problem-solving knowledge that describes the relationship between concepts and objects.
+P+-Procedural Knowledge – This is responsible for knowing how to do something and includes rules, strategies, procedures, etc.
+P+-Meta Knowledge – Meta Knowledge defines knowledge about other types of Knowledge.
+P+-Heuristic Knowledge – This represents some expert knowledge in the field or subject.
+
 ->-> contingent planning
-->-> open-universe
+->))  Contingent planning (also called conditional planning). – 
+      Handles domains where the effects of an action are not deterministic. – Approach: plan ahead for different possible results of each action
+
+->-> open-universe?
 ->-> modern learning algorithms 
+
+Convolutional Neural Networks (CNNs)
+Long Short Term Memory Networks (LSTMs)
+Recurrent Neural Networks (RNNs)
+Generative Adversarial Networks (GANs)
+Radial Basis Function Networks (RBFNs)
+Multilayer Perceptrons (MLPs)
+Self Organizing Maps (SOMs)
+Deep Belief Networks (DBNs)
+Restricted Boltzmann Machines( RBMs)
+Autoencoders
+
 ->-> Web search and information extraction
 
 <--> intelligent agent <-->
@@ -32,4 +86,5 @@ problems, but as occurring in the service of achieving goals
 
 P+- thought processes and reasoning + behavior
 P+- fidelity to human performance + ideal performance measure, called rationality
---?? empirical science
+--?? empirical science -either one which, as the term implies, is supported by the evidence of the senses, or one which is built up out of the elements of experience
+->-> Cognitive science is the interdisciplinary, scientific study of the mind and its processes with input from linguistics, psychology, neuroscience, philosophy, computer science/artificial intelligence, and anthropology
